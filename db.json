@@ -7,7 +7,7 @@
       "ville": "Strasbourg",
       "loyer": 1000,
       "superficie": 60,
-      "description": "Bel appartement lumineux avec vue sur le parc",
+      "description": "Bel appartement lumineux avec vue sur le parc"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "ville": "Colmar",
       "loyer": 750,
       "superficie": 45,
-      "description": "Bel appartement lumineux avec vue sur le parc",
+      "description": "Bel appartement lumineux avec vue sur le parc"
     }
   ],
   "utilisateurs": [
@@ -25,21 +25,21 @@
       "nom": "Dupont",
       "prenom": "Jean",
       "email": "jean.dupont@example.com",
-      "telephone": "01 23 45 67 89",
+      "telephone": "01 23 45 67 89"
     },
     {
       "id": 2,
       "nom": "Martin",
       "prenom": "Sophie",
       "email": "sophie.martin@example.com",
-      "telephone": "06 12 34 56 78",
+      "telephone": "06 12 34 56 78"
     },
     {
       "id": 3,
       "nom": "Lefevre",
       "prenom": "Pierre",
       "email": "pierre.lefevre@example.com",
-      "telephone": "06 98 76 54 32",
+      "telephone": "06 98 76 54 32"
     }
   ],
   "candidatures": [
@@ -48,21 +48,21 @@
       "appartementId": 1,
       "utilisateurId": 1,
       "date": "2023-03-30",
-      "statut": "en_attente",
+      "statut": "en_attente"
     },
     {
       "id": 2,
       "appartementId": 2,
       "utilisateurId": 2,
       "date": "2023-04-01",
-      "statut": "acceptee",
+      "statut": "acceptee"
     },
     {
       "id": 3,
       "appartementId": 1,
       "utilisateurId": 3,
       "date": "2023-04-02",
-      "statut": "refusee",
+      "statut": "refusee"
     }
   ]
 }
