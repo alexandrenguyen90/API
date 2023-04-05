@@ -46,21 +46,21 @@
     {
       "id": 1,
       "appartementId": 1,
-      "userId": 1,
+      "utilisateurId": 1,
       "date": "2023-03-30",
       "statut": "en_attente",
     },
     {
       "id": 2,
       "appartementId": 2,
-      "userId": 2,
+      "utilisateurId": 2,
       "date": "2023-04-01",
       "statut": "acceptee",
     },
     {
       "id": 3,
       "appartementId": 1,
-      "userId": 3,
+      "utilisateurId": 3,
       "date": "2023-04-02",
       "statut": "refusee",
     }
