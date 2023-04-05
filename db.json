@@ -4,7 +4,7 @@
       "id": 1,
       "adresse": "123 rue des Fleurs",
       "cp": "67000",
-      "ville": "Strasbourg"
+      "ville": "Strasbourg",
       "loyer": 1000,
       "superficie": 60,
       "description": "Bel appartement lumineux avec vue sur le parc",
@@ -13,7 +13,7 @@
       "id": 2,
       "adresse": "12 rue des Rosiers",
       "cp": "68000",
-      "ville": "Colmar"
+      "ville": "Colmar",
       "loyer": 750,
       "superficie": 45,
       "description": "Bel appartement lumineux avec vue sur le parc",
