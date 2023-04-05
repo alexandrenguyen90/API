@@ -3,8 +3,8 @@
     {
       "id": 1,
       "adresse": "123 rue des Fleurs",
-	  "cp": "67000",
-	  "ville": "Strasbourg"
+      "cp": "67000",
+      "ville": "Strasbourg"
       "loyer": 1000,
       "superficie": 60,
       "description": "Bel appartement lumineux avec vue sur le parc",
@@ -12,8 +12,8 @@
 	  {
       "id": 1,
       "adresse": "12 rue des Rosiers",
-	  "cp": "68000",
-	  "ville": "Colmar"
+      "cp": "68000",
+      "ville": "Colmar"
       "loyer": 750,
       "superficie": 45,
       "description": "Bel appartement lumineux avec vue sur le parc",
@@ -21,21 +21,21 @@
   ],
   "utilisateurs": [
     {
-	  "id": 1,
+      "id": 1,
       "nom": "Dupont",
       "prenom": "Jean",
       "email": "jean.dupont@example.com",
       "telephone": "01 23 45 67 89",
     },
     {
-	  "id": 2,
+      "id": 2,
       "nom": "Martin",
       "prenom": "Sophie",
       "email": "sophie.martin@example.com",
       "telephone": "06 12 34 56 78",
     },
     {
-	  "id": 3,
+      "id": 3,
       "nom": "Lefevre",
       "prenom": "Pierre",
       "email": "pierre.lefevre@example.com",
